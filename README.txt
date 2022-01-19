@@ -36,12 +36,11 @@ little embarrassed it's worth it.
 	elements of those questions. I found this to be a very helpful tool for me to learn these concepts, as I find it more
 	comfortable to read these formulas as c++ code than standard mathematical formulas.
 
- * MyProject2.zip - This project might not be worth as much to look at, and definitely not worth its file size weight. It's 
-	more or less just the starter project for VR in UE4. Regardless, it helped me to learn getting started with a VR project
-	and how to set the default settings. I also change an element of the walkable area to include the walls so I could hop
-	up on them. I then compiled the project and uploaded it to my Oculus with adb. My goal is to create my vision for my 
-	dream house and property within VR when I find the time, but as of now this project just serves to show that I have
-	indeed at least tampered with VR.
+ * VRScreenshot.png - This is more or less just a screenshot of the starter project for VR in UE4. Regardless, it helped me
+	to learn getting started with a VR project and how to set the default settings. I also change an element of the walkable
+	area to include the walls so I could hop up on them. I then compiled the project and uploaded it to my Oculus with adb.
+	My goal is to create my vision for my dream house and property within VR when I find the time, but as of now this project
+	just serves to show that I have indeed at least tampered with VR.
 
  * Queen.cs - This file was for a final project in my math class on combinatorial game theory. The
 	goal was to create a digital version of the board game Amazons, and then make AI for that game. This file contains
